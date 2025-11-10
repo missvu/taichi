@@ -40,7 +40,7 @@ export default function App() {
             Tai Chi for Restful Sleep: A Natural Path to Better Nights
           </h1>
           <p className="text-xl md:text-2xl text-indigo-900 max-w-2xl mx-auto">
-            Discover how gentle movement and mindful breathing can help you sleep better
+            Discover how gentle movement and mindful breathing can help aging bodies sleep better
           </p>
           <div className="mt-8">
             <button 

@@ -1,8 +1,6 @@
 {
       "name": "Single Page Health Website",
       "homepage": "https://missvu.github.io/taichi",
-      "predeploy": "npm run build",
-      "deploy": "gh-pages -d build",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
@@ -57,6 +55,9 @@
       },
       "scripts": {
             "dev": "vite",
-            "build": "vite build"
+            "build": "vite build",
+            "preview": "vite preview",
+            "predeploy": "npm run build",
+            "deploy": "gh-pages -d build"
       }
 }
