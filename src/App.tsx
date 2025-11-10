@@ -524,30 +524,10 @@ export default function App() {
       {/* Research References Section */}
       <section className="py-20 px-6 bg-white">
         <div className="max-w-5xl mx-auto">
-          <h2 className="mb-8 text-indigo-900 text-center text-[3.25rem] leading-tight" style={{ fontFamily: "'Playfair Display', Georgia, serif" }}>Research Foundation</h2>
+          <h2 className="mb-8 text-indigo-900 text-center text-[3.25rem] leading-tight" style={{ fontFamily: "'Playfair Display', Georgia, serif" }}>References</h2>
           
-          <div className="bg-gradient-to-br from-gray-50 to-blue-50 p-8 rounded-2xl shadow-lg mb-8">
-            <h3 className="mb-6 text-indigo-900">Primary Research Study</h3>
-            
-            <div className="bg-white p-6 rounded-xl border-2 border-indigo-200 mb-6">
-              <p className="text-sm text-gray-600 mb-2">ABSTRACT FROM:</p>
-              <h4 className="mb-4 text-gray-900">
-                Siu, P. M., Yu, A. P., Tam, B. T., Chin, E. C., Yu, D. S., Chung, K. F., Hui, S. S., Woo, J., Fong, D. Y., Lee, P. H., Wei, G. X., Irwin, M. R., & Cheung, D. S. (2021). Effects of Tai Chi or Exercise on Sleep in Older Adults With Insomnia: A Randomized Clinical Trial. JAMA Network Open, 4(2), e2037199.
-              </h4>
-              <p className="text-gray-700 leading-relaxed">
-                <strong>Importance:</strong> Insomnia is common in older adults and is associated with multiple adverse health outcomes. Tai chi and other exercise interventions may be effective treatments for insomnia in older adults.
-              </p>
-              <p className="text-gray-700 leading-relaxed mt-3">
-                <strong>Objective:</strong> To compare the effects of tai chi and conventional exercise vs a control group on remission of insomnia in older adults with chronic insomnia.
-              </p>
-              <p className="text-gray-700 leading-relaxed mt-3">
-                <strong>Findings:</strong> In this randomized clinical trial of 320 older adults with insomnia, both tai chi and conventional exercise interventions were associated with clinically relevant improvements compared with a control group at 12 weeks and 24 months.
-              </p>
-            </div>
-          </div>
 
           <div className="bg-gray-50 p-8 rounded-xl">
-            <h3 className="mb-6 text-indigo-900">References Cited</h3>
             
             <div className="space-y-4 text-sm text-gray-700">
               <p id="ref-1" className="transition-colors duration-500"><strong>[1]</strong> <strong>Engel, G. L. (1977).</strong> The need for a new medical model: A challenge for biomedicine. Science, 196(4286), 129–136. https://doi.org/10.1126/science.847460</p>
